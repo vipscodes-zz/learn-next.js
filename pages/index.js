@@ -17,9 +17,6 @@ export default function Home() {
         <h1 className={styles.title}>
           Welcome Avip
         </h1>
-        { 
-          // Imported Components put below ya /
-        }
       </main>
     </div>
   )
